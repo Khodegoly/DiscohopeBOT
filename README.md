@@ -77,17 +77,5 @@ Egglord is pretty much at the end of development now, it will only be updated fo
   * New discord features
   * Suggestions I deem very good.
 
-## 🖥️ My other projects
- * [Auto poster](https://github.com/Spiderjockey02/auto-poster-and-notifications) - Allows your users to get notified when you post on another social media. (Youtube, twitch, twitter, reddit etc)
- * [erela.js-facebook](https://github.com/Spiderjockey02/erela.js-facebook) - Allows facebook videos to played with [erela.js](https://github.com/MenuDocs/erela.js) (A [lavalink](https://github.com/Freyacodes/Lavalink) client).
 
-## 📖 License
 
-Released under the [Apache License 2.0](https://github.com/Spiderjockey02/Discord-Bot/blob/master/LICENSE) license.
-
-## 📜 Credits
-* **[Tovade#6617](https://github.com/tovade)** - Initial Reaction Role System.
-* **Josh_V2#9733** - Slash Commands & Tags System.
-* **XBouBou#0856** - French Translation.
-* **[duncte123#1245](https://github.com/duncte123)** - [Lavalink plugin](https://github.com/DuncteBot/skybot-lavalink-plugin/tree/1.1.2) (TTS, reddit etc).
-* Want to be on this list, aswell? - Check out the [Contributing page](https://github.com/Spiderjockey02/Discord-Bot/blob/master/docs/CONTRIBUTING.md).
