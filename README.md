@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  Egglord
+  DiscohopeBOT
   <br>
 </h1>
 
@@ -8,10 +8,6 @@
 
 
 <div align=center>
-
-[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=Spiderjockey02_Discord-Bot&metric=ncloc)](https://sonarcloud.io/dashboard?id=Spiderjockey02_Discord-Bot)
-[![CodeFactor](https://www.codefactor.io/repository/github/spiderjockey02/discord-bot/badge/master)](https://www.codefactor.io/repository/github/spiderjockey02/discord-bot/overview/master)
-[![Crowdin](https://badges.crowdin.net/egglord-discord-bot/localized.svg)](https://crowdin.com/project/egglord-discord-bot)
   
 </div>
 
@@ -27,9 +23,9 @@
 
 ## ❓ About
 
-Egglord is an open source, fully customizable Discord bot that is constantly growing. You can invite it to your Discord server using [this](https://discord.com/oauth2/authorize?client_id=647203942903840779&permissions=485846102&scope=bot) link! Also, you can join the official [Egglord Support Server](https://discord.gg/8g6zUQu) for all questions, suggestions, and assistance! It comes packaged with a variety of commands and a multitude of settings that can be tailored to your server's specific needs.
+DiscohopeBOT is an open source, fully customizable Discord bot that is constantly growing.for all questions, suggestions, and assistance! It comes packaged with a variety of commands and a multitude of settings that can be tailored to your server's specific needs.
 
-If you liked this repository, feel free to leave a star ⭐ to help promote Egglord!
+If you liked this repository, feel free to leave a star ⭐ to help promote DiscohopeBOT!
 
 ## ❗ Features
 
@@ -50,7 +46,7 @@ If you liked this repository, feel free to leave a star ⭐ to help promote Eggl
 *   ❓  **Ticket**: `t-(close | create |setup )`!
 *   **Full list** of commands: [here](https://github.com/Spiderjockey02/Discord-Bot/blob/master/docs/COMMANDS.md).
 
-Egglord also comes packed with a variety of features, such as:
+DiscohopeBOT also comes packed with a variety of features, such as:
 
   * **Welcome messages** and **farewell messages**.
   * **Extensive Logging** for 37 events.
@@ -66,7 +62,7 @@ Egglord also comes packed with a variety of features, such as:
 
 ## 📝 To-Do
 
-Egglord is pretty much at the end of development now, it will only be updated for the following things:
+DiscohopeBOT is pretty much at the end of development now, it will only be updated for the following things:
   
   * Bug fixes
   * Code optimisation
